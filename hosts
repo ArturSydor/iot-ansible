@@ -1,0 +1,2 @@
+[webservers]
+192.168.56.103 ansible_ssh_user=artur ansible_ssh_pass=artur ansible_sudo_pass=artur
